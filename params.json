@@ -1,0 +1,6 @@
+{
+  "name": "Liuhuan136187364.GitHub.io-myblog",
+  "tagline": "my blog ! ",
+  "body": "# liuhuan136187364.github.io-myBlog\r\nmy blog welcome everyone ! \r\n<div id=\"menu\">\r\n<ul>\r\n<li><a href=\"index.php\">Home</a></li>\r\n<li><a href=\"about.php\">About</a></li>\r\n<li><a href=\"contact.php\">Contact</a></li>\r\n</ul>\r\n</div>\r\nps:**主页**:\r\n<ulid=\"menu\">\r\n<li><a href=\"index.php\">Home</a></li>\r\n<li><a href=\"about.php\">About</a></li>\r\n<li><a href=\"contact.php\">Contact</a></li>\r\n</ul>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
